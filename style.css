@@ -1,0 +1,23 @@
+body {
+    font-family: Georgia, serif;
+    background-color: #f5f1e8;
+    color: #333;
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+h1 {
+    color: #006d77;
+}
+
+.box {
+    background-color: teal;
+    border: 2px solid #006d77;
+    padding: 20px;
+    border-radius: 10px;
+}
+.warning {
+    color: purple;
+     font-family: Trebuchet MS, sans-serif;
+}
